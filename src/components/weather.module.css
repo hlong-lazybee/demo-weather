@@ -1,0 +1,11 @@
+.weather {
+    margin-top: 20px;
+    border: 3px dashed grey;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.title {
+    font-size: 4rem;
+}
